@@ -1,4 +1,6 @@
-# 1,000,000 neologisms dataset
+# synthetic neologisms.txt dataset
+
+TODO: scripts to be published soon
 
 ---
 
